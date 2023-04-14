@@ -1,10 +1,4 @@
-//
-// Rishabh Singh(NUID: 002767904     Email-id: singh.risha@northeastern.edu) 
-// & 
-// Aakash Singhal(NUID: 002761944    Email-id: singhal.aak@northeastern.edu)
-//
-
-1. We performed this project in windows-11 using Visual Studio IDE.
+1. I performed this project in windows-11 using Visual Studio IDE.
 
 
 2. Instructions for running the executables: There are two executable file-
@@ -19,7 +13,7 @@
         - the csv file will get saved in location provided as "output.csv"
 
     - 'extract_features.cpp'
-	  - Here we are taking 5 inputs in argv[].
+	  - Here I have taken 5 inputs in argv[].
  		* Input1: Path to the target image written as argv1
  		* Input2: feature set written as argv2
  		* Input3: Path where we want our output csv file to get generated as output.csv written as argv3
@@ -61,6 +55,5 @@
         - sum_sq_dist: sum of square difference
         - hist_int: histogram intersection
 
-- We have created distance_metric.cpp file for the calculation of distance metric.
-- We are using 1 time travel days.
+- I have created distance_metric.cpp file for the calculation of distance metric.
     
