@@ -1,11 +1,4 @@
-/*
- * Dirent interface for Microsoft Visual Studio
- *
- * Copyright (C) 1998-2019 Toni Ronkko
- * This file is part of dirent.  Dirent may be freely distributed
- * under the MIT license.  For all details and documentation, see
- * https://github.com/tronkko/dirent
- */
+
 #ifndef DIRENT_H
 #define DIRENT_H
 
@@ -1210,3 +1203,20 @@ dirent_set_errno(int error)
 }
 #endif
 #endif /*DIRENT_H*/
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+Content-Based-Image-Retrieval/include/dirent.h at main · RobuRishabh/Content-Based-Image-Retrieval · GitHub
